@@ -9,7 +9,7 @@ It is inspired by [YutoriSpine/pray](https://github.com/YutoriSpine/pray).
 Install shrine with [fisher](https://github.com/jorgebucaran/fisher):
 
 ```sh
-fisher install kqnade/pray_fisher
+fisher install kqnade/pray.fish
 ```
 
 ## Usage
